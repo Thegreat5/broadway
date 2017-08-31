@@ -1,0 +1,37 @@
+h1{font-family: Helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	background-image: url(http://lorestaurante.com.br/wp-content/uploads/2016/12/painel2.jpg);
+}
+.div{
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	background-color: skyblue;
+}
+h2{
+	font-family: helvetica;
+	font-size: 32px;
+	font-weight: bold;
+}
+h4{
+
+}
+.letra{
+	font-family: helvetica;
+	font-weight: bold;
+}
+p{
+	font-family: helvetica;
+	font-size: 14px;
+}
+body{
+	text-align: center;
+}
+h3{
+	font-size: 23px;
+	color: white;
+	background-image: url(http://lorestaurante.com.br/wp-content/uploads/2016/12/painel2.jpg);
+
+}
